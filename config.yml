@@ -1,0 +1,4 @@
+jtype: TesseractOCR
+metas:
+  py_modules:
+    - executor.py
