@@ -1,2 +1,5 @@
 manifest_version: 1
 name: TesseractOCR
+description: "Simple OCR to extract text from images using Tesseract"
+url: https://github.com/alexcg1/executor_tesseract_ocr
+keywords: [text, image, ocr, tesseract, 3.0-exclusive]
